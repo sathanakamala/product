@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int product,n1,n2;
+    cout<<"enter two numbers";
+    cin >> n1;
+    cin>>n2;
+    cout<<"product =" <<n1*n2;
+    return 0;
+}
+
+
+
+
+
+
+output:
+enter two numbers20 40
+product =800
